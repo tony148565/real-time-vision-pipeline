@@ -1,0 +1,24 @@
+{
+  "mode": "demo",
+  "video_source": "test.mp4",
+  "loop_video": false,
+  "record_output": true,
+  "output_path": "output.mp4",
+  "show_window": true,
+  "show_fps": true,
+
+  "canny_threshold_1": 100,
+  "canny_threshold_2": 200,
+  "overlay_alpha": 0.2,
+
+  "low_ratio": 0.05,
+  "high_ratio": 0.15,
+  "output_bar_max_ratio": 0.25,
+
+  "roi_points_ratio": [
+    [0.12, 1.0],
+    [0.30, 0.55],
+    [0.60, 0.55],
+    [0.85, 1.0]
+  ]
+}
