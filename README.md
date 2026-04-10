@@ -110,7 +110,7 @@ python main.py
 ---
 
 ## DEMO
-![demo](./output_small.mp4)
+![demo](output_small.mp4)
 
 ### Demo 影片來源
 本專案使用 YouTube 上 [公開交通監視影片](https://www.youtube.com/watch?v=PJ5xXXcfuTc) 作為示範資料，
