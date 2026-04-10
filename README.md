@@ -108,7 +108,11 @@ python main.py
 - Web UI 或即時串流（streaming）
 
 ---
-## Demo 影片來源
+
+## DEMO
+![demo](./output_small.mp4)
+
+### Demo 影片來源
 本專案使用 YouTube 上 [公開交通監視影片](https://www.youtube.com/watch?v=PJ5xXXcfuTc) 作為示範資料，
 僅用於技術展示用途，版權屬原始內容提供者所有。
 
